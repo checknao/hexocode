@@ -1,6 +1,5 @@
 title: hexo+github搭建笔记
 tags:
-  - 随笔
   - 笔记
 categories: []
 toc: true
